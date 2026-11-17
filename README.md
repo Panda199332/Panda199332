@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Panda
+# 👋 Hi, I'm Loannis
 
 ### AI Engineer | Machine Learning | Data Science | Intelligent Automation
 
